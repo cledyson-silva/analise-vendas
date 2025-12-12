@@ -19,10 +19,10 @@ O projeto busca apoiar a tomada de decisão por meio de métricas claras e anál
 
 ---
 ## 📁 Estrutura do Projeto
-- `data/` → base de dados utilizada  
-- `python/` → script de análise em Python  
-- `powerbi/` → arquivo do dashboard  
+- `data/` → base de dados utilizada
 - `images/` → imagem utilizada no README  
+- `powerbi/` → arquivo do dashboard
+- `python/` → script de análise em Python      
 ---
 
 ## 🧩 Tecnologias Utilizadas
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ```
 3. Execute o script:
 ```bash
-python python/analise_vendas.py
+python python/analise-vendas.py
 ```
 ## 📌 Considerações Finais
 
